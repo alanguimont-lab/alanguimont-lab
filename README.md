@@ -54,8 +54,8 @@ I am a former 3D artist moving into finance. After years in film and TV producti
 
 #### Badges
 
-[![Introduction to Statistics by DataCamp](https://img.shields.io/badge/DataCamp-Introduction_to_Statistics-03EF62?style=plastic&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/d769f0636f4fe081ec3fcecab6ef46a3a45e7623)
-[![Data Manipulation with pandas by DataCamp](https://img.shields.io/badge/DataCamp-Data_Manipulation_with_pandas-03EF62?style=plastic&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/5ae1a4ccf98ec85cf727cda7a40794ad5f939582)
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d769f0636f4fe081ec3fcecab6ef46a3a45e7623"><img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/d769f0636f4fe081ec3fcecab6ef46a3a45e7623.png" alt="Introduction to Statistics by DataCamp" width="180"></a>
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5ae1a4ccf98ec85cf727cda7a40794ad5f939582"><img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/5ae1a4ccf98ec85cf727cda7a40794ad5f939582.png" alt="Data Manipulation with pandas by DataCamp" width="180"></a>
 
 #### Certifications
 
