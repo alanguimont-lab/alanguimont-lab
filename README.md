@@ -44,12 +44,6 @@ I am a former 3D artist moving into finance. After years in film and TV producti
 
 ---
 
-### My GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alanguimont-lab)](https://git.io/streak-stats)
-
----
-
 ### Finance & Data Badges & Certifications
 
 #### Badges
