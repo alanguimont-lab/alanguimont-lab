@@ -8,7 +8,7 @@ I am training in international finance, with a focus on financial markets and as
 * 🌱 I’m learning **Python for finance and data analysis**
 * 💬 I speak **French and English** fluently
 * 📫 Reach me via email at [alanguimont@gmail.com](mailto:alanguimont@gmail.com)
-* 📄 Learn about my career change and experience on [my LinkedIn profile](https://www.linkedin.com/in/alan-guimont/)
+* 📄 Learn more about my experience on [my LinkedIn profile](https://www.linkedin.com/in/alan-guimont/)
 
 ---
 
