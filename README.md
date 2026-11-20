@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=C9A227&center=true&vCenter=true&width=620&lines=MSc+International+Finance+%40+Rennes+School+of+Business;CFA+Level+I+candidate+%C2%B7+May+2027;Python+for+finance+%26+data+analysis" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=C9A227&center=true&vCenter=true&width=700&lines=MSc+International+Finance+%40+RSB;CFA+Level+I+candidate+%C2%B7+May+2027;Python+for+finance+%26+data+analysis" alt="Typing intro">
 </p>
 
 <p align="center">
@@ -13,10 +13,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 👋 About me
 
 I'm training in international finance, with a focus on **financial markets** and **asset management**. I'm building my finance and data skills through my master's, professional certifications and hands-on projects.
@@ -25,19 +21,12 @@ I'm training in international finance, with a focus on **financial markets** and
 - 🤝 **RSB Company Ambassador**, interviewing industry speakers
 - 💬 French & English, fluent
 
-</td>
-<td width="50%" valign="top">
-
 ### 📌 Currently
 
 - 📘 **AMF certification**: exam in December 2026
 - 📈 **CFA Level I**: sitting in May 2027
 - 🐍 Improving my **Python & pandas** for financial data
 - 🔍 Looking for a **finance internship** (May–Aug 2027) and an **apprenticeship** in Paris (Sept 2027)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -55,22 +44,14 @@ I'm training in international finance, with a focus on **financial markets** and
 
 ### 🏅 Certifications & Badges
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <a href="https://portal.bloombergforeducation.com/certificates/FbojUFe8Jh7wQzQebfrpNPJy"><img src="https://img.shields.io/badge/Bloomberg-Finance_Fundamentals-0B1A33?style=for-the-badge&labelColor=C9A227" alt="Bloomberg Finance Fundamentals"></a><br>
-  <sub>Completed Nov 2026</sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d769f0636f4fe081ec3fcecab6ef46a3a45e7623"><img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/d769f0636f4fe081ec3fcecab6ef46a3a45e7623.png" alt="Introduction to Statistics by DataCamp" width="160"></a><br>
-  <sub>DataCamp</sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5ae1a4ccf98ec85cf727cda7a40794ad5f939582"><img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/5ae1a4ccf98ec85cf727cda7a40794ad5f939582.png" alt="Data Manipulation with pandas by DataCamp" width="160"></a><br>
-  <sub>DataCamp</sub>
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://portal.bloombergforeducation.com/certificates/FbojUFe8Jh7wQzQebfrpNPJy"><img src="https://img.shields.io/badge/Bloomberg-Finance_Fundamentals-0B1A33?style=for-the-badge&labelColor=C9A227" alt="Bloomberg Finance Fundamentals"></a>
+</p>
+
+<p>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d769f0636f4fe081ec3fcecab6ef46a3a45e7623"><img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/d769f0636f4fe081ec3fcecab6ef46a3a45e7623.png" alt="Introduction to Statistics by DataCamp" width="160"></a>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5ae1a4ccf98ec85cf727cda7a40794ad5f939582"><img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/5ae1a4ccf98ec85cf727cda7a40794ad5f939582.png" alt="Data Manipulation with pandas by DataCamp" width="160"></a>
+</p>
 
 **In progress:** AMF Certification (Dec 2026) · CFA Level I (May 2027)
 
