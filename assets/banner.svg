@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1A33"/>
+      <stop offset="1" stop-color="#132B52"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C9A227"/>
+      <stop offset="1" stop-color="#E8C766"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <!-- subtle grid -->
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M150 0V300M300 0V300M450 0V300M600 0V300M750 0V300M900 0V300M1050 0V300"/>
+  </g>
+  <!-- market line -->
+  <polyline fill="none" stroke="url(#gold)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"
+    points="640,230 690,215 730,222 770,190 810,198 850,165 890,172 930,140 970,150 1010,115 1050,122 1090,90 1130,98 1170,70"/>
+  <polygon fill="#C9A227" fill-opacity="0.08"
+    points="640,230 690,215 730,222 770,190 810,198 850,165 890,172 930,140 970,150 1010,115 1050,122 1090,90 1130,98 1170,70 1170,300 640,300"/>
+  <circle cx="1170" cy="70" r="6" fill="#E8C766"/>
+  <!-- text -->
+  <text x="70" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Alan Guimont</text>
+  <rect x="72" y="162" width="90" height="4" rx="2" fill="url(#gold)"/>
+  <text x="70" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#C9D3E3">International Finance · Markets · Asset Management</text>
+</svg>
