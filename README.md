@@ -1,6 +1,6 @@
 # Hi, I'm Alan
 
-I am a former 3D artist moving into finance. After years in film and TV production in London, I am now training in international finance, with a focus on financial markets and asset management. I'm building my finance and data skills through my master's, professional certifications and hands-on projects.
+I am training in international finance, with a focus on financial markets and asset management. I'm building my finance and data skills through my master's, professional certifications and hands-on projects.
 
 * 🎓 I’m currently studying for an [MSc in International Finance at Rennes School of Business](https://www.rennes-sb.com/)
 * 📈 I’m preparing for **CFA Level I** (May 2027) and the **AMF certification**
